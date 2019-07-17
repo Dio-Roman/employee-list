@@ -18,7 +18,7 @@ const configureStore = preloadedState =>
     preloadedState,
     compose(
       applyMiddleware(thunk),
-      composeEnhancers()
+      // composeEnhancers()
     )
   );
 
