@@ -1,0 +1,28 @@
+.add-new-employee__input {
+  margin-right: 0.5em;
+  line-height: 1.5em;
+  padding-left: 0.5em;
+  margin-bottom: 1em;
+  border-radius: 7px;
+}
+.add-new-employee__send-btn {
+  display: block;
+  margin: 1em auto;
+  width: fit-content;
+  padding: 0 1em;
+  font-size: larger;
+  background-color: inherit;
+  font-weight: bold;
+  border-radius: 3em;
+  border: 2px solid cadetblue;
+  color: cadetblue;
+  cursor: pointer;
+}
+.add-new-employee__form {
+  width: fit-content;
+  margin: 0 auto;
+}
+.add-new-employee {
+  text-align: center;
+  color: cadetblue;
+}

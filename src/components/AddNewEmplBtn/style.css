@@ -1,0 +1,13 @@
+.add-new-empl-btn {
+  display: block;
+  margin: 1em auto;
+  width: fit-content;
+  padding: 0 1em;
+  font-size: larger;
+  background-color: inherit;
+  font-weight: bold;
+  border-radius: 3em;
+  border: 2px solid cadetblue;
+  color: cadetblue;
+  cursor: pointer;
+}

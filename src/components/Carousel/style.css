@@ -1,0 +1,24 @@
+.slick-slider {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 2em;
+}
+
+.carousel__img {
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+@media (max-width: 744px) {
+  .carousel__img {
+    width: 6em;
+    height: 6em;
+  }
+}
+
+@media (max-width: 660px) {
+  .carousel__img {
+    width: 3em;
+    height: 3em;
+  }
+}

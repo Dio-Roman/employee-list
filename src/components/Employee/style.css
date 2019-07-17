@@ -1,0 +1,21 @@
+.employee-item {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 1em;
+  padding-left: 1em;
+  align-items: center;
+  cursor: pointer;
+}
+.employee-item:hover,
+.employee-item:focus {
+  outline: 2px dotted;
+  background-color: #e3f8f9;
+}
+.employee-item__ava {
+  margin-right: 1em;
+  border-radius: 50%;
+}
+.employee-item__p {
+  margin-right: 1em;
+  font-size: large;
+}

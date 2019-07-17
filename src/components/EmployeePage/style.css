@@ -1,0 +1,21 @@
+.employee-page {
+  padding: 2em;
+  margin: 0 auto;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  border: 2px dotted;
+  border-radius: 32px;
+}
+.employee-page__img {
+  border: 2px dotted green;
+}
+
+.employee-page__span {
+  color: green;
+}
+.employee-page__comments-h2 {
+  text-align: center;
+  margin-bottom: 0;
+  color: cadetblue;
+}

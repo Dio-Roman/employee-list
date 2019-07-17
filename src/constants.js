@@ -1,0 +1,4 @@
+export const CLICK_ON_EMPLOYEE = "CLICK_ON_EMPLOYEE";
+export const ADD_COMMENT = "ADD_COMMENT";
+export const ADD_NEW_EMPLOYEE = "ADD_NEW_EMPLOYEE";
+export const FETCH_SUCCESS = 'FETCH_SUCCESS';
