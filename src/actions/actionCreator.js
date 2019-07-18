@@ -23,7 +23,7 @@ export const addNewEmployee = employForm => ({
 
 export const fetchData = type => {
   return dispatch => {
-    fetch("http://63d546b5-eb32-4094-a4a5-3e5f4c41f387.mock.pstmn.io/json")
+    fetch("https://63d546b5-eb32-4094-a4a5-3e5f4c41f387.mock.pstmn.io/json")
       // fetch('http://localhost:3000/data.json')
       .then(response => response.json())
       .then(data => {
