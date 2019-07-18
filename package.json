@@ -1,6 +1,10 @@
 {
   "name": "employee-list",
   "homepage": "https://dio-roman.github.io/employee-list/",
+  "engines": {
+    "npm": "6.2.0",
+    "node": "10.16.0"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
